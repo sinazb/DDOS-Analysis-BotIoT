@@ -1,0 +1,10 @@
+# Ignore datasets
+data/*.csv
+data/*.zip
+data/*.pcap
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
